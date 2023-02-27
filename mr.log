@@ -1,0 +1,27 @@
+2023-03-02 13:25:11 INFO - Starting MapReduce job
+2023-03-02 13:25:11 INFO - Input data: /data/input.txt
+2023-03-02 13:25:11 INFO - Output location: /data/output.txt
+2023-23-02 13:25:11 INFO - Number of map tasks: 4
+2023-23-02 13:25:11 INFO - Number of reduce tasks: 2
+2023-23-02 13:25:11 INFO - Splitting input data into chunks
+2023-23-02 13:25:11 INFO - Created 4 map tasks
+2023-23-02 13:25:11 INFO - Starting map worker threads
+2023-23-02 13:25:11 INFO - Map task 1 started
+2023-23-02 13:25:11 INFO - Map task 2 started
+2023-23-02 13:25:11 INFO - Map task 3 started
+2023-23-02 13:25:11 INFO - Map task 4 started
+2023-23-02 13:25:15 INFO - Map task 1 completed
+2023-23-02 13:25:15 INFO - Map task 2 completed
+2023-23-02 13:25:15 INFO - Map task 3 completed
+2023-23-02 13:25:15 INFO - Map task 4 completed
+2023-23-02 13:25:15 INFO - All map tasks completed
+2023-23-02 13:25:15 INFO - Creating reduce tasks
+2023-23-02 13:25:15 INFO - Created 2 reduce tasks
+2023-23-02 13:25:15 INFO - Starting reduce worker threads
+2023-23-02 13:25:15 INFO - Reduce task 1 started
+2023-23-02 13:25:15 INFO - Reduce task 2 started
+2023-23-02 13:25:17 INFO - Reduce task 1 completed
+2023-23-02 13:25:17 INFO - Reduce task 2 completed
+2023-23-02 13:25:17 INFO - All reduce tasks completed
+2023-23-02 13:25:17 INFO - Writing output data to /data/output.txt
+2023-23-02 13:25:17 INFO - MapReduce job completed successfully
